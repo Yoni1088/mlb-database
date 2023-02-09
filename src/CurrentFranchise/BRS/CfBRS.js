@@ -211,15 +211,15 @@ export default function CfBRS() {
         <tr>
           <td>
             Home: 38-43
-            Away: 0-0
-            PDT: .0
+            Away: 46-35
+            PCT: .519
           </td>
           <td>
-            AB: 0
-            BA: .0
-            OBP: .0
-            SLG: .0
-            OPS: .0
+            AB: 5770
+            BA: .269
+            OBP: .340
+            SLG: .466
+            OPS: .806
           </td>
         </tr>
       </table>
@@ -227,21 +227,21 @@ export default function CfBRS() {
       <h2>2020</h2>
       <table>
         <tr>
-          <th>Season Record: 0-0</th>
+          <th>Season Record: 24-36</th>
           <th>Season Batting</th>
         </tr>
         <tr>
           <td>
-            Home: 0-0
-            Away: 0-0
-            PDT: .0
+            Home: 11-20
+            Away: 13-16
+            PCT: .400
           </td>
           <td>
-            AB: 0
-            BA: .0
-            OBP: .0
-            SLG: .0
-            OPS: .0
+            AB: 2083
+            BA: .265
+            OBP: .330
+            SLG: .445
+            OPS: .775
           </td>
         </tr>
       </table>
@@ -249,21 +249,21 @@ export default function CfBRS() {
       <h2>2021</h2>
       <table>
         <tr>
-          <th>Season Record: 0-0</th>
+          <th>Season Record: 92-70</th>
           <th>Season Batting</th>
         </tr>
         <tr>
           <td>
-            Home: 0-0
-            Away: 0-0
-            PDT: .0
+            Home: 49-32
+            Away: 43-38
+            PCT: .568
           </td>
           <td>
-            AB: 0
-            BA: .0
-            OBP: .0
-            SLG: .0
-            OPS: .0
+            AB: 5495
+            BA: .261
+            OBP: .328
+            SLG: .449
+            OPS: .777
           </td>
         </tr>
       </table>
@@ -271,21 +271,21 @@ export default function CfBRS() {
       <h2>2022</h2>
       <table>
         <tr>
-          <th>Season Record: 0-0</th>
+          <th>Season Record: 78-84</th>
           <th>Season Batting</th>
         </tr>
         <tr>
           <td>
-            Home: 0-0
-            Away: 0-0
-            PDT: .0
+            Home: 43-38
+            Away: 35-46
+            PCT: .481
           </td>
           <td>
-            AB: 0
-            BA: .0
-            OBP: .0
-            SLG: .0
-            OPS: .0
+            AB: 5539
+            BA: .258
+            OBP: .321
+            SLG: .409
+            OPS: .731
           </td>
         </tr>
       </table>
