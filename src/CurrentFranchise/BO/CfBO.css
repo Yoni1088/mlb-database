@@ -1,0 +1,26 @@
+h2 {
+    border: 5px black solid;
+    border-radius: 12px;
+    font-family: Arial;
+    font-size: 25px;
+    color: white;
+    background-color: orange;
+}
+
+table {
+    font-family: Arial;
+    border-collapse: collapse;
+    width: auto;
+}
+
+th  {
+    border: 5px black solid;
+    text-align: center;
+    padding: 5px;
+}
+
+td {
+    border: 5px black solid;
+    text-align: center;
+    padding: 5px;
+}

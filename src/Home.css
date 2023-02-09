@@ -1,0 +1,35 @@
+body {
+    background-color: gray;
+}
+
+/* #title {
+    margin-top: 300px;
+    margin-left: 425px;
+    background-color: white;
+    border: 5px black solid;
+    padding: 0px;
+    border-radius: 12px;
+    color: black;
+    font-family: Arial;
+    font-size: 100px;
+}
+hr {
+    height: 20px;
+    background-color: black;
+    border: 5px white solid;
+    border-radius: 12px;
+} */
+#intro {
+    background-color: white;
+    height: 300px;
+    width: 50%;
+    border: 10px black solid;
+    border-radius: 16px;
+    color: black;
+    font-family: Arial;
+    font-size: 55px;
+    padding: 20px;
+    background-size: cover;
+    margin-left: 335px;
+    text-align: center;
+}

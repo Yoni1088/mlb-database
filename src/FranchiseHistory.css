@@ -1,0 +1,27 @@
+    body {
+        background-color: grey;
+    }
+
+    #fh1 {
+        font-family: Arial;
+        color: black;
+        text-align: center;
+    }
+
+    #L1 {
+        border: 10px black solid;
+        border-radius: 12px;
+        background-color: gray;
+        color: white;
+        font-family: Arial;
+        font-size: 40px;
+        text-decoration: none;
+        /* position: relative; */
+        text-align: center;
+        list-style: none;
+    }
+
+    img {
+        height: 40px;
+        width: 40px;
+    }
